@@ -1,6 +1,7 @@
 # A-transfer-framework-based-on-co-matrix-decomposition
 I have completed co-matrix decomposition for undirected, high-dimensional and sparse networks with python3.8+cuda.
-
+A transfer framework based on co-matrix decomposition for undirected, high-dimensional and sparse networks
+https://doi.org/10.1016/j.jocs.2022.101677
 Highlights
 •
 A symmetric and non-negative collective factorization is proposed for SHiDS networks.
